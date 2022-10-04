@@ -7,7 +7,7 @@ Generate the [Whirlpool](https://code.samourai.io/whirlpool/Whirlpool) pairing c
 ## Usage
 
 ```
-$ java -jar whirlpool-pairing.jar
+$ java -jar whirlpool-cli-pairing.jar
 ```
 
 For testnet, append `-t` or `--testnet`.
